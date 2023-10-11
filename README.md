@@ -1,5 +1,5 @@
 
-# Typescript #3: Generics, Utility Types, Validering med Zod
+# Typescript #3: Mer av typescript + Validering med Zod
 
 👋 Se föreläsningen i tisdags och onsdags ✅ 
 
